@@ -8,6 +8,7 @@ A Python-based Bank Management System that allows users to perform essential ban
 **Withdraw Money**: Withdraw money from an account, ensuring sufficient balance.
 **Balance Inquiry**: Check the balance of an existing account.
 **Account Deletion**: Delete an account from the system.
+**Change Password**: Change the password of your account.
 **View All Accounts**: View details of all accounts stored in the system.
 
 ## Technologies Used
@@ -15,7 +16,6 @@ A Python-based Bank Management System that allows users to perform essential ban
 **Concepts:** Object-Oriented Programming (OOP), File Handling, Database Management
 **Libraries:**
     os: Used for file handling operations.
-    pickle or json (optional): For saving and loading account data persistently.
 
 ## Prerequisites
 1. Python 3.x installed on your system.
